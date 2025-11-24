@@ -1,0 +1,15 @@
+/home/hani/Documents/part/flutter_application_3/build/linux/x64/debug/bundle/flutter_application_3
+/home/hani/Documents/part/flutter_application_3/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/hani/Documents/part/flutter_application_3/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/hani/Documents/part/flutter_application_3/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/menu.png
+/home/hani/Documents/part/flutter_application_3/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/logo.png
+/home/hani/Documents/part/flutter_application_3/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/hani/Documents/part/flutter_application_3/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/hani/Documents/part/flutter_application_3/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/hani/Documents/part/flutter_application_3/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/hani/Documents/part/flutter_application_3/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/hani/Documents/part/flutter_application_3/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/hani/Documents/part/flutter_application_3/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/hani/Documents/part/flutter_application_3/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/hani/Documents/part/flutter_application_3/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/hani/Documents/part/flutter_application_3/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
